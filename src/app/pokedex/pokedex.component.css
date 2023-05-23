@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 10px;
+    font-size: 23px;
+    padding: 4px;
+    margin: 0 2px;
+    font-family: 'Calibri';
+    background-color: azure;
+}
